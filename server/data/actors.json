@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Kristen Stewart",
+        "dateOfBirth": "1999-10-10",
+        "biography": "aku adalah yin",
+        "photoUrl": "https://placehold.co/600x400"
+    },
+    {
+        "name": "Vincent Cassel",
+        "dateOfBirth": "1998-10-20",
+        "biography": "real account",
+        "photoUrl": "https://placehold.co/600x400"
+    },
+    {
+        "name": "Jessica Henwick",
+        "dateOfBirth": "2000-01-01",
+        "biography": "real account",
+        "photoUrl": "https://placehold.co/600x400"
+    },
+    {
+        "name": "John Gallagher Jr",
+        "dateOfBirth": "1978-02-03",
+        "biography": "real account",
+        "photoUrl": "https://placehold.co/600x400"
+    },
+    {
+        "name": "Mamoudou Athie",
+        "dateOfBirth": "1998-10-12",
+        "biography": "real account",
+        "photoUrl": "https://placehold.co/600x400"
+    }
+    
+]

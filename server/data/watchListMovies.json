@@ -1,0 +1,26 @@
+[
+    {
+        "WatchListId": 1,
+        "MovieId": 1
+    },
+    {
+        "WatchListId": 1,
+        "MovieId": 2
+    },
+    {
+        "WatchListId": 1,
+        "MovieId": 3
+    },
+    {
+        "WatchListId": 2,
+        "MovieId": 2
+    },
+    {
+        "WatchListId": 2,
+        "MovieId": 4
+    },
+    {
+        "WatchListId": 3,
+        "MovieId": 3
+    }
+]
